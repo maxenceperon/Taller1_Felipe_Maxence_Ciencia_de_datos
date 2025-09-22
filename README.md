@@ -1,8 +1,11 @@
 # Taller 1
 
-## Integrantes  
-- Diego Felipe Tolosa Gamez
-- Maxence Péron
+## Integrantes
+| Nombre y apellido         | Código UniAndes |
+|---------------------------|-----------------|
+| Diego Felipe Tolosa Gamez | 201413235       |
+| Maxence Péron             | 202525101       |
+
 
 ## Objetivo y alcance  
 El objetivo de este proyecto es analizar el comportamiento de las reservas hoteleras con el fin de identificar los factores que influyen en las cancelaciones y en la ocupación de los hoteles. A partir de un dataset de reservas, se busca extraer información útil que permita proponer estrategias para reducir la tasa de cancelación y mejorar la gestión de la demanda.  
