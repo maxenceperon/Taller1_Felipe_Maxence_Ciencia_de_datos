@@ -37,7 +37,6 @@ El repositorio se organiza de la siguiente manera:
    pip install -r requirements.txt
    ```
 2. Ejecutar el notebook `cleaning.ipynb`. Esto generará el archivo `hotel_bookings_clean.csv` dentro de la carpeta `data/`.
-> Nota: este archivo no existe inicialmente y debe ser creado en este paso.
 3. Ejecutar el notebook `eda.ipynb` para realizar el análisis exploratorio de datos y obtener los insights.
 
 ## Principales insights
