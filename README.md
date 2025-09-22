@@ -43,9 +43,10 @@ El repositorio se organiza de la siguiente manera:
 ## Principales insights
 Del análisis realizado en `eda.ipynb` y documentado en los reportes, se destacan los siguientes hallazgos:
 - Aproximadamente el 41% de las reservas terminan cancelándose, lo que representa un reto importante para la ocupación hotelera.
-- Las reservas hechas con mucha antelación (mediana: 102 días) presentan más cancelaciones que aquellas realizadas con menos tiempo de anticipación (mediana: 44 días).
+- Las reservas hechas con mucha antelación (más de 69 días) presentan más cancelaciones que aquellas realizadas con menos tiempo de anticipación (menos de 26 días).
 - El segmento de grupos y las agencias en línea muestran las tasas de cancelación más altas, mientras que el segmento corporativo es el más estable.
 - Los *city hotels* presentan una tasa de cancelación mucho mayor (69%) en comparación con los *resort hotels* (28%).
+- Pesé a que los *city  hotels* representan el 32% de las reservas también representan el 54.5% de las cancelaciones.
 - Las reservas con tarifas más altas tienden a cancelarse con más frecuencia, lo que sugiere que los precios influyen en la decisión final del cliente.
 
 Estos resultados fueron utilizados para elaborar el `Informe Ejecutivo de Recomendaciones Estratégicas.pdf`, donde se presentan conclusiones y propuestas prácticas orientadas a la reducción de cancelaciones y a la optimización de la ocupación en las cadenas hoteleras.
